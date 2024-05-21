@@ -135,14 +135,14 @@
       <h3 class="text-lg font-semibold">Payment Details:</h3>
       <p class="mt-4 text-lg whitespace-pre-line">
         <strong>Account No:</strong> <br>
-        <strong>IFSC:</strong> <br>
+        <strong>IFSC:</strong>FDRL0007777 <br>
         <strong>Alternet IFSC:</strong> <br>
         <strong>Bank:</strong><br>
         <strong>Branch:</strong><br>
         <strong>UPI Handle:</strong><br>
       </p>
       <p class="mt-4">
-        <strong>Note:</strong> We are not registered on GST as We have the annual aggregate turnover below the taxable limit as specified under the Goods and Services Tax Act, 2017.</p>
+        <strong>Note:</strong> We are not regsterd on GST as We have the annual aggregate turnover below the taxable limit as specified under the Goods and Services Tax Act, 2017.</p>
     </section>
     
   </footer>
