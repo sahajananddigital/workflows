@@ -19,6 +19,9 @@
         <p class="text-sm text-gray-800" v-if="print.gstin">
           GSTIN: {{ print.gstin }}
         </p>
+        <p class="text-sm text-gray-800" v-if="print.gstin">
+          UDHYAM: 
+        </p>
       </div>
     </section>
 
@@ -132,9 +135,14 @@
       <h3 class="text-lg font-semibold">Payment Details:</h3>
       <p class="mt-4 text-lg whitespace-pre-line">
         <strong>Account No:</strong> <br>
-        <strong>IFSC:</strong> (All Zeros) <br>
-        <strong>Bank:</strong> <br>
+        <strong>IFSC:</strong> <br>
+        <strong>Alternet IFSC:</strong> <br>
+        <strong>Bank:</strong><br>
+        <strong>Branch:</strong><br>
+        <strong>UPI Handle:</strong><br>
       </p>
+      <p class="mt-4">
+        <strong>Note:</strong> We are not registered on GST as We have the annual aggregate turnover below the taxable limit as specified under the Goods and Services Tax Act, 2017.</p>
     </section>
     
   </footer>
